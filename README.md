@@ -1,7 +1,7 @@
 # Introduction 
 This project is intended to create my porfolio/resume website. I also documented details of this project and tools I had used.
 
-This project was intented for me to learn more on CI/CD, explore on Azure DevOps & GitHub and Azure Services such as Azure Static Web Apps.
+Besides that, this project allow me to learn more on CI/CD, explore on Azure DevOps & GitHub, Azure Services such as Azure Static Web Apps and how to document it.
 
 # Details of this project
 1. I had use [HTML UP Template Dimension](https://html5up.net/dimension) and edited it to fit what I need.
