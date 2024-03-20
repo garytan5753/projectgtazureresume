@@ -1,5 +1,7 @@
 # Introduction 
-This project is intended to create my online porfolio/resume and share on what are the tools I had used and document steps I had done.
+This project is intended to create my online porfolio/resume and what are the tools I had used.
+
+#Details
 
 # Tools Used
 Tools that I have use in this project:
@@ -8,19 +10,4 @@ Tools that I have use in this project:
 3.  GitHub
 4.	HTML5 UP Template
 5.	VSCode
-
-# Requirements
-1. Azure Acount & Subscription
-2. Azure DevOps Account
-3. GitHub Account
-
-# Steps
-
-### 1. Create Account
-- 
-
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+6.  SyncADOtoGitHub (credit to RekhuGopal. Please vist [GitHub](https://github.com/RekhuGopal/SyncADOtoGitHub) & [Youtube](https://www.youtube.com/watch?v=G1nKqb8be-A&t=1434s))
