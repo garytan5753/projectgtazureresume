@@ -1,15 +1,12 @@
 # Introduction 
-This project is intended to create my porfolio/resume website. I also documented details of this project and tools I had used.
-
-Besides that, this project allow me to learn more on CI/CD, explore on Azure DevOps & GitHub, Azure Services such as Azure Static Web Apps and how to document it.
+This project serves as a learning journey for me, delving deeper into Continuous Integration/Continuous Deployment (CI/CD) practices while exploring the functionalities of Azure DevOps and GitHub. Additionally, I aim to gain hands-on experience with Azure Services like Azure Static Web Apps, further expanding my understanding of cloud-based development. Documenting this process allows me to solidify my learning and share insights gained along the way.
 
 # Details of this project
 1. I had use [HTML UP Template Dimension](https://html5up.net/dimension) and edited it to fit what I need.
-2. I choosen using Azure DevOps Repo to to keep my project files due to my working nature use it and I will like to get a better understanding & experience on using it.
+2. I choosen using Azure DevOps Repo to to keep my project files due to my working nature uses it and I will like to get a better understanding & experience on using it.
 3. Due to unavaible to make it to public like how GitHub able, I sync it to my [GitHub Repo](https://github.com/garytan5753/projectgtazureresume).
 4. So any update will be push to Azure DevOps Repo and Pipeline will start to work to update on my website. I manually run a tool to sync my Azure DevOps Repo to my GitHub Repo.
 5. I hosted my website using Azure Static Web service.
-6. This README.md file is written for me to get familiar with writing Markdown language.
 
 # Tools Used
 Tools that I have use in this project:
